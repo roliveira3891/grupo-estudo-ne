@@ -9,7 +9,7 @@ Aqui será abordado: NodeJS, JS, EJS (para front) e MariaDB.
 
 ### Se quiser testar:
 Clone o projeto:
-<code>git clone https://github.com/salubcosta/guiaperguntas-node.git </code>
+<code>git clone https://github.com/roliveira3891/grupo-estudo-ne.git </code>
 
 Instale as dependências:
 <code>npm install</code>
